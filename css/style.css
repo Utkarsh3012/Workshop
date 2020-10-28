@@ -70,9 +70,10 @@
 }
 
 #about img {
-    width: 110%;
+    width: 90%;
     height: 500px;
-    margin: 2px;
+    margin: 40px;
+    float: left;
 }
 
 #about h1 {
