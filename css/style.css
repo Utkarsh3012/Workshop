@@ -23,6 +23,20 @@
     color: #000000;
 }
 
+.topnav2 a {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 14px 16px;
+    display: block;
+    float: left;
+}
+
+.topnav2 a:hover {
+    background-color: black;
+    color: antiquewhite;
+}
+
 .header {
     background: linear-gradient(rgb(0, 0, 0, 0.8), rgb(255, 255, 255, 0.8)), url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsvCDn_SodRLgrFCA3Kt1vNPM5XbGJF6E1ug&usqp=CAU');
     background-size: cover;
